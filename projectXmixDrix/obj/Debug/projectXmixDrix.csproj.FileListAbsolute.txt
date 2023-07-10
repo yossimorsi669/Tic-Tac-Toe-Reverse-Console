@@ -1,0 +1,8 @@
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\bin\Debug\projectXmixDrix.exe
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\bin\Debug\projectXmixDrix.pdb
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\obj\Debug\projectXmixDrix.csprojAssemblyReference.cache
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\obj\Debug\projectXmixDrix.csproj.CoreCompileInputs.cache
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\obj\Debug\projectXmixDrix.csproj.CopyComplete
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\obj\Debug\projectXmixDrix.exe
+C:\Users\yossi\source\repos\B23 Ex02 YosefMurcian 307903070 TalRabinovich 209399849\projectXmixDrix\obj\Debug\projectXmixDrix.pdb
